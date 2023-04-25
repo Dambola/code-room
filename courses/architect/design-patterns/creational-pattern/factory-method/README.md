@@ -1,0 +1,11 @@
+# Concept
+
+- 
+
+# Consequences
+
+- 
+
+# Related Patterns
+
+- 
